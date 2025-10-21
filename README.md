@@ -2,6 +2,8 @@
 
 **What it is:** A ranked-choice voting program that tallies pairwise preferences, sorts by strength of victory, and locks edges without creating cycles (Tideman/Ranked Pairs).
 
+Built as part of [CS50x](https://cs50.harvard.edu/x/2022/).
+
 ## How it works
 1. Read candidates and ballots.
 2. Record pairwise preferences in a matrix.
